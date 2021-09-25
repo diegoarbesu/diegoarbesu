@@ -1,4 +1,4 @@
-### 🖖, My name is Diego Arbesú.
+### 🖖 My name is Diego Arbesú.
 
 - 👨 💻  Studying: HTML, CSS, JavaScript, SQL, NodeJS, ReactJS.
 
@@ -7,3 +7,4 @@
 - 📫 Instagram: diegoarbesu_
 
 - programmed to live; 💻
+
