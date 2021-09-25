@@ -1,15 +1,13 @@
 ### 🖖 My name is Diego Arbesú.
 
-- 👨 💻  Studying: HTML, CSS, JavaScript, SQL, NodeJS, ReactJS.
+ 👨 💻  Studying: HTML, CSS, JavaScript, SQL, NodeJS, ReactJS.
 
-- 🚀 Tools: VSCode, Terminal, Git and GitHub
+ 🚀 Tools: VSCode, Terminal, Git and GitHub
 
-- 📫 Instagram: diegoarbesu_
-
-- programmed to live; 💻
+ Programmed to live; 💻
 
 <p align="left">
-  Me siga nas redes sociais: ⤵️
+ Follow me on social networks: ⤵️
 </p>
 <p align="left">
   <a href="https://www.instagram.com/diegoarbesu_/" alt="Instagram">
